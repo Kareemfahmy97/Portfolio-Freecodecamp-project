@@ -1,4 +1,4 @@
-# FreeCodeCamp Portfolio Page project
+# FreeCodeCamp Portfolio Page Project
 
 ### [The Portfolio Link](https://kareemfahmy97.github.io/Portfolio-Freecodecamp-project/)
 
